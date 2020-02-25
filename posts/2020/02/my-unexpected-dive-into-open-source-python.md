@@ -55,7 +55,7 @@ I look forward to contributing to the open-source community!
 
 ## Special Thanks to:
 - PyData's Diversity Scholars program and its NYC volunteer organizers Hanhan and Vinay.
-- My new friends that welcomed me at PyData NYC- W4rner, Bhargav, Agatha and Lev.
+- My new friends that welcomed me at PyData NYC- W4rner, Bhargav, Agatha and Lev at their [Natural Language Role-Playing workshop](https://agileeducation.co/nlrp), hosted by [agileEducation](https://agileeducation.co/).
 - [NumFOCUS](https://numfocus.org/) for organizing PyData and its [funding partner organizations](https://numfocus.org/sponsors). 
 - Nicole from NumFOCUS for sitting next to me during my first Pandas lesson and accepting my feedback on further improving the Diversity Scholars program. 
 - My friend, Rinchen, for encouraging me to apply and volunteering at PyData NYC.
